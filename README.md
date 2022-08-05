@@ -16,7 +16,11 @@ Clone the repository to your local machine and open the index.html file in your 
 
 ## Usage
 
+<<<<<<< HEAD
 [Deployed Site](https://github.com/andresilva8624/Andre-Work_Schedule.git)
+=======
+[Deployed Site](https://andresilva8624.github.io/Andre-Work_Schedule/)
+>>>>>>> 850db6cd5da3d7817412016447bcf8df02be46ba
 
 ![gif of deployed site](./Assets/images/website.gif)
    
@@ -58,4 +62,8 @@ To contact me use one of the links below
 
 
 
+<<<<<<< HEAD
 [EMail](mailto:andresilva8624@gmail.com)
+=======
+[EMail](mailto:andresilva8624@gmail.com)
+>>>>>>> 850db6cd5da3d7817412016447bcf8df02be46ba
