@@ -7,7 +7,7 @@ var nine=$
 var currentDayEl = $("#currentDay");
 
 function displayTime() {
-    var currentDay = moment().format('dddd, MMMM, Do');
+    var currentDay = moment().format('dddd, MMMM Do, YYYY');
     currentDayEl.text(currentDay);
     console.log(currentDay);
 }
