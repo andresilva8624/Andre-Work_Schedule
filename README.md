@@ -59,8 +59,8 @@ To contact me use one of the links below
 
 
 
-<<<<<<< HEAD
+
 [EMail](mailto:andresilva8624@gmail.com)
-=======
+
 [EMail](mailto:andresilva8624@gmail.com)
->>>>>>> 850db6cd5da3d7817412016447bcf8df02be46ba
+
