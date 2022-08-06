@@ -62,5 +62,4 @@ To contact me use one of the links below
 
 [EMail](mailto:andresilva8624@gmail.com)
 
-[EMail](mailto:andresilva8624@gmail.com)
 
