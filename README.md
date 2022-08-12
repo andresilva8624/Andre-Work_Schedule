@@ -17,7 +17,7 @@ Clone the repository to your local machine and open the index.html file in your 
 ## Usage
 
 
-[Deployed Site](https://andresilva8624.github.io/Andre-Work_Schedule/)
+[Deployed Site](https://andresilva8624.github.io/Daily-Work-Schedule/)
 
 ![gif of deployed site](./Assets/images/website.gif)
    
